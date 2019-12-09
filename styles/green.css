@@ -1,0 +1,28 @@
+body{
+	background: url(../images/hojas.jpg);
+	background-attachment: fixed;
+}
+#logo{
+	background: #0b8a2f;
+}
+#menu a:hover{
+	background: #0b8a2f;
+	transition: all 300ms;
+	border-radius: 5px;
+}
+.post .see-more{
+	background: #0b8a2f;
+}
+.top{
+	background-color: #0b8a2f;
+}
+input[type="submit"],
+button{
+	background: #0b8a2f;
+}
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active, a.ui-button:active, .ui-button:active, .ui-button.ui-state-active{
+	background: #0b8a2f !important;
+}
+#contacto select{
+	background-color:  #0b8a2f;
+}

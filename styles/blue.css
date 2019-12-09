@@ -1,0 +1,28 @@
+body{
+	background: url(../images/cielo.jpg);
+	background-attachment: fixed;
+}
+#logo{
+	background: #0800ff;
+}
+#menu a:hover{
+	background: #0800ff;
+	transition: all 300ms;
+	border-radius: 5px;
+}
+.post .see-more{
+	background: #0800ff;
+}
+.top{
+	background-color: #0800ff;
+}
+input[type="submit"],
+button{
+	background: #0800ff;
+}
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active, a.ui-button:active, .ui-button:active, .ui-button.ui-state-active{
+	background: #0800ff !important;
+}
+#contacto select{
+	background: #0800ff;
+}

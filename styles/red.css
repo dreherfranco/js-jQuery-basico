@@ -1,0 +1,28 @@
+body{
+	background: url(../images/rojo.jpg);
+	background-attachment: fixed;
+}
+#logo{
+	background: #fd2c2c;
+}
+#menu a:hover{
+	background: #fd2c2c;
+	transition: all 300ms;
+	border-radius: 5px;
+}
+.post .see-more{
+	background: #fd2c2c;
+}
+.top{
+	background-color: #fd2c2c;
+}
+input[type="submit"],
+button{
+	background: #fd2c2c;
+}
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active, a.ui-button:active, .ui-button:active, .ui-button.ui-state-active{
+	background: #fd2c2c !important;
+}
+#contacto select{
+	background-color: #fd2c2c;
+}
